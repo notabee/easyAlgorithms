@@ -1,5 +1,5 @@
 /*
-This AVL tree is implemeted by Rishabh Baghel.
+This AVL tree is implemeted by iamnotabear.
 I give you full permission to use it as you want.
 */
 
