@@ -70,13 +70,15 @@ class MergeCount{
         }
     }
     void displayArray(int arr[],int n){
+        //to print sorted array uncomment the code below
         /*for(int i=0; i<n; i++){
           System.out.print(arr[i] + " ");
         }
         System.out.println();*/
-        System.out.print(count);
+        //to print the number of times sort function is called uncomment the code below
+        /*System.out.print(count);
         System.out.println();
-        count=0;
+        count=0;*/
     }
 }
 
