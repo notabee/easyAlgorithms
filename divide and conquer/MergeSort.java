@@ -69,14 +69,14 @@ class main{
         t = sc.nextInt();
         for(;t>0;t--){
             int n;
-            int v=2;
+            
             n = sc.nextInt();
-            for(;v>0;v--){
+            
                 int[] arr = new int[1000];
                 int i;
                 for(i=0;i<n;i++){
                     arr[i] = sc.nextInt();
-                }
+            
                 MergeCount sorter = new MergeCount();
                 sorter.sort(arr,0,i - 1);
                 sorter.displayArray(arr,n);
